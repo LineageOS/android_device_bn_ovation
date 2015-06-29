@@ -22,6 +22,30 @@
       "revId": "67d24f3ba47bafbc4addd3cecb389aa557873a68",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9ff52f3f_688e972f",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 13026
+      },
+      "writtenOn": "2015-06-29T21:27:51Z",
+      "side": 1,
+      "message": "It\u0027s supposed to be landscape, with the Nook/Home button on the right side, correct? Not having seen any visual differences with these two flags, on or off, I figured I should mention the change in touchscreen responsiveness.",
+      "parentUuid": "9ff52f3f_e5cc1263",
+      "range": {
+        "startLine": 45,
+        "startChar": 1,
+        "endLine": 45,
+        "endChar": 29
+      },
+      "revId": "67d24f3ba47bafbc4addd3cecb389aa557873a68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
