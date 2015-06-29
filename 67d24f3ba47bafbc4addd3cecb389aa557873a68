@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ff52f3f_e5cc1263",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1848
+      },
+      "writtenOn": "2015-06-29T11:45:06Z",
+      "side": 1,
+      "message": "Why comment these settings out?  I believe the touchscreen is rotated compared to the display and these settings fix that in recovery.",
+      "range": {
+        "startLine": 45,
+        "startChar": 1,
+        "endLine": 45,
+        "endChar": 29
+      },
+      "revId": "67d24f3ba47bafbc4addd3cecb389aa557873a68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
